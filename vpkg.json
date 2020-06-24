@@ -1,0 +1,8 @@
+{
+    "name": "ini",
+    "version": "0.1.0",
+    "author": ["Cyklan <dev@cyklan.de>"],
+    "repo": "https://github.com/Cyklan/ini",
+    "test_files": ["parse_test.v"],
+    "dependencies": []
+}
